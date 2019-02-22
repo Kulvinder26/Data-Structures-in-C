@@ -87,7 +87,7 @@ void display(struct ztack *start){
    else{
   while(ptr != NULL){
       int val = ptr->data;
-  printf("value iz %d \n", val);
+  printf("value is %d \n", val);
   ptr = ptr->next;
 
   }
