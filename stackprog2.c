@@ -1,6 +1,4 @@
-//ztack
-
-with linked lizt
+// with linked list
 
 #include<stdio.h>
 #include <stdlib.h>
